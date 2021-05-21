@@ -1,0 +1,1 @@
+DELETE FROM edge WHERE source_id = 1 AND target_id = 2;
